@@ -1,4 +1,40 @@
-# JSTARS_2021_SGML
-This is the source code of the work:
-SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification.
-The code will be soon released after the paper is accept.
+SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification, JSTARS, 2021
+==
+ [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), Yuchao Xiao and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
+
+***
+Demo for paper: [SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/9652087).  
+
+<div align=center><img src="/Image/architecture.jpg" width="80%" height="80%"></div>
+Fig. 1: The structural schematic diagram of the proposed SGML. The framework is comprised of three parts: adaptive multilevel superpixel segmentation, feature extraction with a novel GSvolution, and a metric learning module.
+
+References
+--
+If you find this code helpful, please kindly cite:  
+
+Y. Li, B. Xi, J. Li, R. Song, Y. Xiao and J. Chanussot, "SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, [doi: 10.1109/JSTARS.2021.3135548](https://ieeexplore.ieee.org/abstract/document/9652087).
+
+Citation Details
+--
+BibTeX entry:
+```
+@ARTICLE{Xi2021SGMLJSTARS,
+  author={Li, Yunsong and Xi, Bobo and Li, Jiaojiao and Song, Rui and Xiao, Yuchao and Chanussot, Jocelyn},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JSTARS.2021.3135548}}
+ ```
+ 
+ Licensing
+--
+Copyright (C) 2020 Bobo Xi
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.
