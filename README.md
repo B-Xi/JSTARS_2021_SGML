@@ -1,4 +1,4 @@
-SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification, JSTARS, 2021
+SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification, JSTARS, 2021.
 ==
  [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), Yuchao Xiao and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 
