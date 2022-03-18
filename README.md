@@ -31,8 +31,8 @@ BibTeX entry:
   number={},
   pages={609-622},
   doi={10.1109/JSTARS.2021.3135548}}
- ```
- ```
+```
+```
 @ARTICLE{Xi_2022TNNLS_XGPN,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Xiao, Yuchao and Du, Qian and Chanussot, Jocelyn},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
@@ -43,7 +43,7 @@ BibTeX entry:
   pages={1-15},
   }
 ```
-  ```
+```
 @INPROCEEDINGS{Xi2021IGARSS,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Du, Qian},
   booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
@@ -53,7 +53,7 @@ BibTeX entry:
   number={},
   pages={2851-2854},
   doi={10.1109/IGARSS47720.2021.9553372}}
- ```
+```
  Licensing
 --
 Copyright (C) 2021 Bobo Xi
