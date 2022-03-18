@@ -34,7 +34,7 @@ BibTeX entry:
  ```
  ```
 @ARTICLE{Xi_2022TNNLS_XGPN,
-  author={B. {Xi} and J. {Li} and Y. {Li} and R. {Song} and Y. {Xiao} and Q. {Du} and J. {Chanussot}},
+  author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Xiao, Yuchao and Du, Qian and Chanussot, Jocelyn},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification}, 
   year={2022},
@@ -43,17 +43,6 @@ BibTeX entry:
   pages={1-15},
   }
 ```
- ```
-@INPROCEEDINGS{Xi2021IGARSS,
-  author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Du, Qian},
-  booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
-  title={Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={2851-2854},
-  doi={10.1109/IGARSS47720.2021.9553372}}
- ```
  
  Licensing
 --
