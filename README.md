@@ -14,7 +14,7 @@ If you find this code helpful, please kindly cite:
 
 [1] Y. Li, B. Xi, J. Li, R. Song, Y. Xiao and J. Chanussot, "SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 609-622, 2022, [doi: 10.1109/JSTARS.2021.3135548](https://ieeexplore.ieee.org/abstract/document/9652087).
 
-[2] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot, “Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification,” IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022.
+[2] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot, “Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification,” IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022, [doi:10.1109/TNNLS.2022.3158280](https://ieeexplore.ieee.org/document/9740412). 
 
 [3] B. Xi, J. Li, Y. Li and Q. Du, "Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 2851-2854, [doi: 10.1109/IGARSS47720.2021.9553372](https://ieeexplore.ieee.org/document/9553372).
 
@@ -36,12 +36,12 @@ BibTeX entry:
 @ARTICLE{Xi_2022TNNLS_XGPN,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Xiao, Yuchao and Du, Qian and Chanussot, Jocelyn},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification}, 
+  title={Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification}, 
   year={2022},
   volume={},
   number={},
   pages={1-15},
-  }
+  doi={10.1109/TNNLS.2022.3158280}}
 ```
 ```
 @INPROCEEDINGS{Xi2021IGARSS,
