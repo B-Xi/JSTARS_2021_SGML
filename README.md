@@ -22,7 +22,7 @@ Citation Details
 --
 BibTeX entry:
 ```
-@ARTICLE{Xi2021SGMLJSTARS,
+@ARTICLE{Xi_2021JSTARS_SGML,
   author={Li, Yunsong and Xi, Bobo and Li, Jiaojiao and Song, Rui and Xiao, Yuchao and Chanussot, Jocelyn},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification}, 
@@ -44,7 +44,7 @@ BibTeX entry:
   doi={10.1109/TNNLS.2022.3158280}}
 ```
 ```
-@INPROCEEDINGS{Xi2021IGARSS,
+@INPROCEEDINGS{Xi_2021IGARSS_GPN,
   author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Du, Qian},
   booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
   title={Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification}, 
