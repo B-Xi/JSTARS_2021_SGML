@@ -3,7 +3,7 @@ SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Im
  [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), Yuchao Xiao and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 
 ***
-Demo for paper: [SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/9652087).  
+Demo for the paper: [SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/9652087).  
 
 <div align=center><img src="/Image/architecture.jpg" width="80%" height="80%"></div>
 Fig. 1: The structural schematic diagram of the proposed SGML. The framework is comprised of three parts: adaptive multilevel superpixel segmentation, feature extraction with a novel GSvolution, and a metric learning module.
